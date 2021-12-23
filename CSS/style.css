@@ -88,6 +88,8 @@ body {
 
 .todoList .wrapper-list ul.list li.done .task {
   text-decoration: line-through;
+  -webkit-filter: opacity(0.6);
+          filter: opacity(0.6);
 }
 
 .todoList .wrapper-list ul.list li.removed {

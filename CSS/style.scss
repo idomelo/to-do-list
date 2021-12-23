@@ -76,6 +76,7 @@ body {
                 // Deixa palavra riscada
                 & .task {
                     text-decoration: line-through;
+                    filter: opacity(0.6);
                 }
             }
 
