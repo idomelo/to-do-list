@@ -1,4 +1,9 @@
-## To do List
+# Todo List
+
 Lista de tarefas com local Storage no navegador
 
-Visualize o projeto aqui: [To do List](https://idomelo.me/to-do-list/)
+### [Visualizar aqui](https://idomelo.me/to-do-list/)
+
+<div align="center">
+  <img src="todolist_mobile.png" alt="Page Preview" width="500"/>
+<div>
